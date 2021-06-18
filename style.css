@@ -1,0 +1,96 @@
+.body{
+    background-color: aqua;
+    
+}
+.main-header{
+    background-color: rgb(199, 157, 157);
+    color: teal;
+    display: flex;
+    float: left;
+    width: 100%;
+    
+}
+.header-con{
+    width: 89%;
+}
+.header-con img{
+    width: 10%;
+}
+.section-main{
+    background-color: rgb(199, 157, 157);
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    float:left;
+}
+.section-main ul{
+    list-style-type: none;
+    text-align: right;
+    margin: 10px;
+}
+.section-main ul li{
+    display: inline;
+    padding: 10px;
+    width: 70%;
+    color: teal;
+}
+.seacher input{
+    width: 30%;
+    margin: 8px;
+    border-radius: 50px;
+    border-color: black;
+    padding: 8px;
+}
+.seacher img{
+    width: 5%;
+
+}
+.header-form{
+    width: 100%;
+    margin: 10px;
+    padding: 4PX;
+    background-color: thistle;
+}
+.form-cont input{
+ margin: 4px;
+ padding: 4px;
+ width: 50%;
+ border-radius: 50px;
+}
+.form-header{
+color:teal;
+}
+.main-cont{
+    width: 100%;
+    float: left;
+    display:flex ;
+    background-position: center;
+    background-size: cover;
+    background-image: url("images.jpeg");
+    background-color: 0,0,0,7;
+}
+
+.form-headers{
+    padding: 2px;
+    color: teal;
+    margin-bottom: 4px;
+    width: 60%;
+}
+.form-header{
+    color: #008080;
+    width: 65%;
+    padding: 2px;
+    margin-bottom: 4px;
+}
+.form-header h3{
+    text-transform: uppercase;
+    font-size: 50px;
+}
+.lovers {
+   border-style: teal solid;
+   border-radius: 200px;
+  height: 40px;
+  padding-left: 5px;  
+  outline: none;
+}
+
